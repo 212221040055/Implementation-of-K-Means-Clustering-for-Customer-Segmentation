@@ -93,31 +93,17 @@ plt.title("Customer Segment")
 ```
 
 ## Output:
-1.DATA.HEAD():
+
 
 ![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/2aa57a0f-71f5-4bb8-977b-b3490b5905fd)
 
-2.DATA.INF0():
-
 ![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/f3c0d3fc-766c-4205-80cb-cb4a5c87a53f)
-
-3.DATA.ISNULL().SUM():
 
 ![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/3c654b06-3ced-405c-b85f-ddc11cfc3617)
 
-4.PLOT USING ELBOW METHOD:
-
 ![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/927cc373-0f90-40b0-b637-17149b1f49b8)
 
-5.K-MEANS CLUSTERING:
-
-![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/43712d0f-3206-46e7-a34f-d702ccf2f601)
-
-6.Y_PRED ARRAY:
-
 ![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/8c1dfa0f-6869-41b3-833f-6195aaba55fe)
-
-7.CUSTOMER SEGMENT:
 
 ![image](https://github.com/23004513/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138973069/1dd609e5-c2f4-4d54-9bce-55def289240b)
 
